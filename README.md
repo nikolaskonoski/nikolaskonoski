@@ -16,12 +16,11 @@ I'm a passionate developer transitioning into the Web3 space, with a strong inte
 ### 🛠️ My Tech Stack & Tools
 
 * **Languages:** JavaScript, Solidity
-* **Frameworks & Libraries:** React.js, Ethers.js, Hardhat, Foundry
+* **Frameworks & Libraries:** React.js, Solidity
 * **Tools:** MetaMask, Remix IDE
 
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Hardhat](https://img.shields.io/badge/Hardhat-2A2A2A?style=for-the-badge&logo=hardhat&logoColor=white)
 
 ---
 
