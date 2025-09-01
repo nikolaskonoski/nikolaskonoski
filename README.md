@@ -1,6 +1,6 @@
 # Hi there, I'm Nikolas Konoski
 
-I'm a passionate developer transitioning into the Web3 space, with a strong interest in decentralized finance (DeFi), DAOs, and building more transparent digital systems. I'm currently diving deep into the Ethereum ecosystem.
+I'm a tech student developer transitioning into the Web3 space, with a strong interest in decentralized finance (DeFi), DAOs, and building more transparent digital systems. I'm currently diving deep into the Ethereum ecosystem.
 
 ---
 
